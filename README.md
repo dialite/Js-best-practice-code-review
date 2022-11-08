@@ -59,8 +59,6 @@ To get a local copy and running follow these simple example steps.
 - Webhint
 - Stylelint
 - ESLint
-- clear all Item/task (with Jest)
-- edit Item/task (with Jest)
 
 ### Deployment
 
